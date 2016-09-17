@@ -14,9 +14,14 @@ What value do you think it offers?
 	
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+	
+	I can change what is not staged but should be, then stage this.
+	
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	Branches are helpful when we need to split our product line to versions.
+	These versions can be later merged into one main line.
 
 How do the diagrams help you visualize the branch structure?
 
