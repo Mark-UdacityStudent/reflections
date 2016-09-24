@@ -19,12 +19,15 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    We can work on shared version off-line.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    The collaboration process would be as follows:
+	1. Clone master branch of a project from the remote repository into my computer
+	2. Work with files and commit changes locally
+	3. Push local changes to the GitHub repository and resolve possible conflicts
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
